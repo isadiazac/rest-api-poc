@@ -74,6 +74,9 @@ docker exec -it rest_api_poc_api node src/index.js migrate
   - `POST /api/v1/tasks` – Crear tarea
   - `PUT /api/v1/tasks/{id}` – Marcar tarea completada
   - `DELETE /api/v1/tasks/{id}` – Eliminar tarea
+ 
+## Documentación con openapi-postman
+[PoC](https://isadiac06-8447466.postman.co/workspace/Isabela-D%C3%ADaz-Acosta's-Workspace~9e2b66f0-0753-4365-8205-f3c81aec62b1/collection/48860550-eca021e8-fcab-48a4-84b6-59263ce4c8b5?action=share&creator=48860550)
 
 ---
 
